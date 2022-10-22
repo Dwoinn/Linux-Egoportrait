@@ -5,7 +5,7 @@ The new webcam will appear in the list of devices of your chat apps like Microso
 This project is based on :
 - [Google MediaPipe](https://github.com/google/mediapipe) for the body recognitions
 - [pyfakewebcam](https://github.com/jremmons/pyfakewebcam) / video4linux2 for the virtual webcam
-- [OpenCV](https://github.com/jremmons/pyfakewebcam) for image processing
+- [OpenCV](https://opencv.org/) for image processing
 
 ## Install
 ### dependencies
